@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DogBreedApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2820a9b619c8ba9d9349c8e31adb6a2b9dffc76")]
 [assembly: System.Reflection.AssemblyProductAttribute("DogBreedApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DogBreedApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
